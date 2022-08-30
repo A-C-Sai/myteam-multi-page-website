@@ -1,0 +1,20 @@
+:root {
+  --clr-primary-100: hsl(179, 42%, 63%);
+  --clr-primary-200: hsl(187, 41%, 29%);
+  --clr-primary-400: hsl(186, 98%, 17%);
+  --clr-primary-500: hsl(186, 100%, 14%);
+  --clr-primary-600: hsl(186, 96%, 10%);
+  --clr-primary-700: hsl(186, 100%, 8%);
+  --clr-accent: hsl(0deg 87% 73%);
+  --clr-white: hsl(0deg 0% 100%);
+  --ff-primary: "Livvic", sans-serif;
+  --fs-h1-large: 6.25rem;
+  --fs-h1-small: 4rem;
+  --fs-h2: 3rem;
+  --fs-h3: 1.125rem;
+  --fs-body-1: 1.125rem;
+  --fs-body-2: 0.9375rem;
+  --desktop-breakpoint: 1440px;
+  --tablet-breakpoint: 768px;
+  --mobile-breakpoint: 375px;
+}
