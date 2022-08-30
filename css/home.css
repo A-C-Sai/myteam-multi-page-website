@@ -322,4 +322,5 @@ a.nav-link:focus {
 .copyright {
   font-size: var(--fs-body-2);
   line-height: calc(25 / 15);
+  text-align: right;
 }
