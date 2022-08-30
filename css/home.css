@@ -313,6 +313,7 @@ a.nav-link:focus {
   display: flex;
   width: 104px;
   justify-content: space-between;
+  margin-left: auto;
 }
 .social-media svg:hover,
 .social-media svg:focus {
@@ -322,5 +323,4 @@ a.nav-link:focus {
 .copyright {
   font-size: var(--fs-body-2);
   line-height: calc(25 / 15);
-  text-align: right;
 }
