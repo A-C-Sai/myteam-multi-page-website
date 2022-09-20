@@ -115,6 +115,7 @@ a.nav-link:focus {
 .section-1 {
   padding-block: 140px;
   position: relative;
+  overflow-x: hidden;
 }
 .home-bg-pattern-3 {
   position: absolute;
